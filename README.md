@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data used for the paper "[Predicting frustration from heart-rate signal with Machine Learning Models](Predicting_frustration_from_heart_rate_signal_with_Machine_Learning_Models.pdf)". The goal of the project is to predict frustration levels from heart rate signals using various machine learning models, focusing on their generalizability to new individuals.
+This repository contains the code and data used for the paper [Predicting frustration from heart-rate signal with Machine Learning Models](Predicting_frustration_from_heart_rate_signal_with_Machine_Learning_Models.pdf). The goal of the project is to predict frustration levels from heart rate signals using various machine learning models, focusing on their generalizability to new individuals.
 
 ## Table of Contents
 
