@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data used for the paper "[Predicting frustration from heart-rate signal with Machine Learning Models](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2FBenja%2Fdev%2Fdtu%2Fpredicting-frustration%2FPredicting_frustration_from_heart_rate_signal_with_Machine_Learning_Models.pdf%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D)". The goal of the project is to predict frustration levels from heart rate signals using various machine learning models, focusing on their generalizability to new individuals.
+This repository contains the code and data used for the paper [Predicting frustration from heart-rate signal with Machine Learning Models](Predicting_frustration_from_heart_rate_signal_with_Machine_Learning_Models.pdf). The goal of the project is to predict frustration levels from heart rate signals using various machine learning models, focusing on their generalizability to new individuals.
 
 ## Table of Contents
 
