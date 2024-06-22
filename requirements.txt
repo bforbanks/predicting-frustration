@@ -3,4 +3,5 @@ pandas
 scikit-learn
 tqdm
 statsmodels
-imblearn
+imbalanced-learn
+IPython
